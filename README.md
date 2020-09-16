@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white"/>
 
 
-<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=breno-alves&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=monokai" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=breno-alves&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=breno-alves&hide=assembly,scilab&layout=compact&theme=monokai&card_width=250" />
