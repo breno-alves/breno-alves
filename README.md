@@ -14,7 +14,7 @@ Currently learning new backend black magic
 
 ---
 
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=breno-alves&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=breno-alves&show_icons=true&theme=radical" />
 
 <img align="right" width="auto" style="display:flex;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-alves&layout=compact&theme=radical">
 
