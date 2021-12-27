@@ -9,7 +9,7 @@
 
 ## Hello there 🧙‍♂️
 
-Currently learning new backend black magic
+Learning new backend black magic
 
 ### Stack
 
